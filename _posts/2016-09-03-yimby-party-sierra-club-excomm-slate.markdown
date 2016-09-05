@@ -38,6 +38,10 @@ campaign](http://sfbarf.tumblr.com/post/130623182665/getting-the-local-san-franc
 , and while none of our candidates won a seat, we raised awareness of
 this issue, and help keep the local Sierra club true to their mission.
 
+## What? ##
+
+Become a Sierra Club member and vote!
+
 To vote in the upcoming election you'll have to be a Sierra Club member
 by October 31st, 2016, and you must live in San Francisco. You have to
 be in their database by the 31st, and there can be a few days lag, so
