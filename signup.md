@@ -11,7 +11,7 @@ If you don't have your Sierra Club member number right now, give us your info an
 and you can add your number to the form later. The Sierra Club will mail
 you something with your member number, or you can always email Sierra
 Club Membership Services at
-membership.services@sierraclub.org
+<mailto:membership.services@sierraclub.org>
 
 <iframe
 src="https://docs.google.com/forms/d/e/1FAIpQLSdt7rPGt5kXZxlTdJ6DvucT3Kb4GiCpwuiXFfOFdeJiZkW2fA/viewform?embedded=true"
