@@ -49,3 +49,6 @@ sign up early if you aren't already a member.
 
 Go [sign up](https://vault.sierraclub.org/ways-to-give/) right now!
 The minimum donation is just $15!
+
+Once you've signed up, please let us know by filling out [this
+form](https://yimbysierra.club/signup.html).
