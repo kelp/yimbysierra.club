@@ -36,3 +36,27 @@ National Parks.
 
 ## Laura Foote Clark
 
+Laura's father was an avid birdwatcher, and she grew up visiting marshes and
+wild places up and down the East Coast. As a city-dweller and nerdy
+child, she enjoyed spending weekends gathering pond scum and other samples
+to check out under the microscope. She developed a deep appreciation for
+nature preserves and the intricate ecosystems that rely upon them. She
+witnessed first-hand the fragility of marshes and the destructive impact
+of human activities along the Chesapeake Bay, picking up trash with
+cleanup efforts.
+ 
+As she grew older, she came to appreciate the role of urban planning in
+preserving our wild places. As an environmentalist, she believes reducing
+greenhouse gas emissions should be our number one objective. With that
+comes reducing car usage and improving public transportation.
+ 
+Having lived in Washington, DC, New York City, Chicago, and San
+Francisco, she knows our city can do so much more to improve regional
+public transportation in the Bay Area. We can do more to encourage
+infill development and reduce suburban sprawl. We can reduce our
+region’s carbon emissions dramatically with the right urban policies.
+ 
+She has been a strong advocate for sustainable housing and transportation
+in San Francisco. She hopes to continue that work with the San Francisco
+Sierra Club.
+
