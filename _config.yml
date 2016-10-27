@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   The YIMBY Party Sierra Club SF group election slate.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yimbysierra.club" # the base hostname & protocol for your site
-twitter_username: kelp
+twitter_username: SFyimby
 github_username: 
 
 # Build settings
