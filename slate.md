@@ -25,12 +25,22 @@ reducing carbon emissions.
 
 ## Travis Cole
 
-Travis has a passion for conservation, the outdoors, and urbanism. He
-believes one of the best ways to fight climate change is to encourage
-dense urban development, and build the associated infrastructure
- to encourage people to live in walkable, bikable and transit rich 
-places.  He is an avid hiker, frequenting California State Parks and
-National Parks.
+Travis has been passionate about environmental, and conservation issues all
+of his adult life, and has a strong interest in sustainable energy,
+walkable cities, and urbanism. He believes we should be encouraging dense
+urban development and car free lifestyles to improve the environment
+and prevent global warming. San Francisco residents use less
+electricity, less water, and drive fewer miles than the rest of
+California and the rest of the United States. Because of this, we should
+advocate for more housing development near jobs so people can give up
+their cars and lower their carbon footprint. San Francisco can be the
+model for sustainable urban development, and the Sierra Club can take
+the lead in advocating for more housing where the environmental impact
+is lowest. In dense cites like San Francisco.
+
+Travis is an avid hiker, frequently enjoying our California State parks.
+He grew up in rural Washington state, so is as much at home in nature as
+in downtown San Francisco.
 
 ## Leigha Beckman
 
