@@ -42,7 +42,32 @@ Travis is an avid hiker, frequently enjoying our California State parks.
 He grew up in rural Washington state, so is as much at home in nature as
 in downtown San Francisco.
 
+Travis has worked in the technology industry for over 16 years, and
+currently manages several engienering teams.
+
+Travis rents an apartment in the Nob Hill neighborhood of San Francisco.
+
 ## Leigha Beckman
+
+Leigha is extremely fortunate to call herself a lifelong resident of California 
+and eight-year resident of the Bay Area. She is less fortunate, however, to 
+witness the increasingly deleterious impacts of climate change resulting from
+human activity. She strongly believes that it is our moral imperative and ecological 
+duty to prevent and mitigate those impacts as much as possible.  
+
+As an active urbanist advocate, she supports transit improvements that reduce vehicle 
+miles traveled and their corresponding carbon emissions, such as expansion of Muni and 
+Caltrain’s electrification project. She urged her San Francisco district supervisor to 
+support Prop E, requiring the city to take responsibility of tree maintenance. At Tesla, 
+she served as Program Manager for Environmental Health and Safety for service centers, 
+where she worked to ensure global compliance with environmental regulations related to 
+facilities, high voltage batteries, chemicals procurement, and several other operational 
+areas. She worked closely with the Environmental Compliance and Sustainability team to 
+launch a parts recycling efforts and manage end-of-life batteries, as well as other 
+initiatives in line with Tesla’s green mission.
+
+She is currently applying to law school with the intent to focus on land use and 
+environmental law, and would be honored to serve on the Sierra Club’s Executive Committee.  
 
 ## Laura Foote Clark
 
