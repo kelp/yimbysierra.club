@@ -25,3 +25,6 @@ github_username:
 # Build settings
 markdown: kramdown
 theme: minima
+
+# Google services
+google_analytics: UA-33387632-2
