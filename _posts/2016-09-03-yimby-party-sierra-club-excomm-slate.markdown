@@ -31,7 +31,7 @@ Club San Francisco Group Executive Commitee. There are 9 seats and 4 are
 up for election this year.
 
 Last year we ran a [similar
-campaign](http://sfbarf.tumblr.com/post/130623182665/getting-the-local-san-francisco-chapter-of-the). I didn't work, but we learned a lot. If you vote for us now, we'll win this year. We raised awareness of this issue, and helped keep the local Sierra club true to their mission.
+campaign](http://sfbarf.tumblr.com/post/130623182665/getting-the-local-san-francisco-chapter-of-the). It didn't work, but we learned a lot. If you vote for us now, we'll win this year. We raised awareness of this issue, and helped keep the local Sierra club true to their mission.
 
 ## What? ##
 
