@@ -40,10 +40,13 @@ is lowest. In dense cites like San Francisco.
 
 Travis is an avid hiker, frequently enjoying our California State parks.
 He grew up in rural Washington state, so is as much at home in nature as
-in downtown San Francisco.
+in downtown San Francisco. Travis has had lifelong ties to the Bay Area.
+His mother is a 3rd generation Bay Area native, who grew up in Half Moon
+Bay and attended San Francisco State. 
 
-Travis has worked in the technology industry for over 16 years, and
-currently manages several engienering teams.
+Travis has worked in the technology industry for over 16 years,
+and is currently an engineering lead at a well known technology company in 
+San Francisco.
 
 Travis rents an apartment in the Nob Hill neighborhood of San Francisco.
 
